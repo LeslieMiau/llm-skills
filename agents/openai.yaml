@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roundtable Design Council"
+  short_description: "Structured multi-model design author-review workflow"
+  default_prompt: "Use the Author-Reviewer workflow to draft, review, revise, and finalize a technical design across multiple models."
