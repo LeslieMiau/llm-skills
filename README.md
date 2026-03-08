@@ -6,6 +6,8 @@ Reusable, production-minded skills for LLM coding assistants.
 
 This repository is for people who want assistant workflows that are sharper than generic prompt snippets: reusable instructions, platform metadata, examples, and companion docs that work across both Claude Code and Codex.
 
+This is not a giant skill catalog. It is a curated repository of AI productivity workflows that create real leverage in day-to-day AI coding work: planning important changes before coding, controlling token burn, and turning repeated high-value patterns into reusable operating procedures.
+
 ## Solve The Pain First
 
 - `roundtable-design-review`: Use cross-model review for first prompts, design proposals, and risky refactors so you think through the important work before you start coding.
@@ -13,6 +15,7 @@ This repository is for people who want assistant workflows that are sharper than
 
 ## Why This Repo
 
+- Not a kitchen-sink skill collection. Only keep workflows that materially improve real AI coding work.
 - One repository, multiple skills, one predictable layout.
 - Shared `SKILL.md` instructions across platforms.
 - Optional Codex metadata via `agents/openai.yaml`.
